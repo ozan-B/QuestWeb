@@ -1,0 +1,11 @@
+beautifulsoup4
+bs4
+dnspython
+geoip2
+ipwhois
+nmap
+prettytable
+requests
+selenium
+tldextract
+urllib3

@@ -10,6 +10,8 @@ __*Website Information Gathering Tool*__
 
     cd infoweb Web_Info
 
+    sudo python3 -m pip install -r requirements.txt
+
     python3 infoweb_.py
 
 
