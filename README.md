@@ -40,5 +40,5 @@ __*Website Information Gathering Tool*__
 - [00]  -->>>  **Exit**
 
 # Screenshot   :camera_flash:
-![Alt text](Screenshot_2023-12-26_02-04-13.png))
+![Alt text](Screenshot_2023-12-26_02-21-48.png))
 
