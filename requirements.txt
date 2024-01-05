@@ -3,7 +3,6 @@ bs4
 dnspython
 geoip2
 ipwhois
-nmap
 prettytable
 requests
 selenium
