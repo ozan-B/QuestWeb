@@ -1,4 +1,4 @@
-# quest_web :link:	
+# Quest Web :link:	
 __*Website Information Gathering Tool*__
 
 
@@ -13,7 +13,6 @@ __*Website Information Gathering Tool*__
     sudo python3 -m pip install -r requirements.txt
 
     python3 questweb_.py
-
 
 
 ****************
@@ -43,4 +42,5 @@ __*Website Information Gathering Tool*__
 
 # Screenshot   :camera_flash:
 ![Alt text](Screenshot_2024-01-04_23-47-17.png)
+
 
