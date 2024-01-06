@@ -6,13 +6,13 @@ __*Website Information Gathering Tool*__
 
 # :inbox_tray: Installation :inbox_tray:
 
-    git clone https://github.com/ozan-B/Web_Info.git 
+    git clone https://github.com/ozan-B/QuestWeb.git
 
-    cd infoweb Web_Info
+    cd infoweb QuestWeb
 
     sudo python3 -m pip install -r requirements.txt
 
-    python3 questweb_.py
+    python3 questweb.py
 
 
 ****************
