@@ -8,7 +8,7 @@ __*Website Information Gathering Tool*__
 
     git clone https://github.com/ozan-B/QuestWeb.git
 
-    cd infoweb QuestWeb
+    cd QuestWeb
 
     sudo python3 -m pip install -r requirements.txt
 
